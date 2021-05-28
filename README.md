@@ -47,7 +47,7 @@ Custom Dataset created by adding noise to Google Scraped Images Dataset (<a href
     </ul>
 </ol>
 
-<h3>CNN Architecture used</h3>
+<h3>GAN Architecture used</h3>
 <ul>
   <li><h4>Generator</h4></li>
   <ul>
