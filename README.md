@@ -1,7 +1,7 @@
 # Low-Light-Image-Enhancement-using-GAN
 In this project, image taken in low lighting conditions, night time, or without much ambient light are converted into and enhanced image as if the image was taken with good lighting condition. Generative Adversarial Networks (GANs) is used to generate the enhanced image from scratch.
 
-<h4>Dataset Used:</h4>
+<h4>Datasets Used:</h4>
 LOw Light Paired (LOL) Dataset (<a href="https://drive.google.com/file/d/157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB/view">Link</a>) <br/>
 Synthetic Image Pairs from Raw Images (<a href="https://drive.google.com/file/d/1G6fi9Kiu7CDnW2Sh7UQ5ikvScRv8Q14F/view">Link</a>) <br/>
 Sony (<a href="https://storage.googleapis.com/isl-datasets/SID/Sony.zip">Link</a>) and Fuji (<a href="https://storage.googleapis.com/isl-datasets/SID/Fuji.zip ">Link</a>) low-light Images<br/>
@@ -10,7 +10,6 @@ Custom Dataset created by adding noise to Google Scraped Images Dataset (<a href
 
 <h4>Link to Published Paper:</h4>
 
-<h3>Training done on Google Colab</h3>
 <h4>System Configuration</h4>
 <ul>
   <li>GPU: Nvidia Tesla T4 16GB / Nvidia Tesla P100 16GB</li>
