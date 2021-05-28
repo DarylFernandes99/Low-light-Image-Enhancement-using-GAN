@@ -49,4 +49,14 @@ Custom Dataset created by adding noise to Google Scraped Images Dataset (<a href
 </ol>
 
 <h3>CNN Architecture used</h3>
-<img src="https://github.com/DragonSinMeliodas99/Optical-Character-Recognition/blob/main/Layers.png" alt="CNN layers" width="900"></img>
+<ul>
+  <li><h4>Generator</h4></li>
+  <ul>
+    <li><h5>Encoder</h5></li>
+      <img src="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/blob/main/Encoder.JPG" alt="CNN layers" width="700"></img>
+    <li><h5>Decoder</h5></li>
+      <img src="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/blob/main/Decoder.JPG" alt="CNN layers" width="700"></img>
+  </ul>
+  <li><h4>Discriminator</h4></li>
+    <img src="https://github.com/DarylFernandes99/Low-light-Image-Enhancement-using-GAN/blob/main/Discriminator.JPG" alt="CNN layers" width="700"></img>
+</ul>
