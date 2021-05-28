@@ -2,10 +2,10 @@
 In this project, image taken in low lighting conditions, night time, or without much ambient light are converted into and enhanced image as if the image was taken with good lighting condition. Generative Adversarial Networks (GANs) is used to generate the enhanced image from scratch.
 
 <h4>Dataset Used:</h4>
-LOw Light Paired (LOL) Dataset - https://drive.google.com/file/d/157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB/view
-Synthetic Image Pairs from Raw Images - https://drive.google.com/file/d/1G6fi9Kiu7CDnW2Sh7UQ5ikvScRv8Q14F/view
-Sony and Fuji low-light Images - https://storage.googleapis.com/isl-datasets/SID/Sony.zip / https://storage.googleapis.com/isl-datasets/SID/Fuji.zip
-Single Image Contrast Enhancement (SICE) - https://drive.google.com/file/d/1HiLtYiyT9R7dR9DRTLRlUUrAicC4zzWN/view / https://drive.google.com/file/d/16VoHNPAZ5Js19zspjFOsKiGRrfkDgHoN/view
+LOw Light Paired (LOL) Dataset - https://drive.google.com/file/d/157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB/view <br/>
+Synthetic Image Pairs from Raw Images - https://drive.google.com/file/d/1G6fi9Kiu7CDnW2Sh7UQ5ikvScRv8Q14F/view <br/>
+Sony and Fuji low-light Images - https://storage.googleapis.com/isl-datasets/SID/Sony.zip / https://storage.googleapis.com/isl-datasets/SID/Fuji.zip <br/>
+Single Image Contrast Enhancement (SICE) - https://drive.google.com/file/d/1HiLtYiyT9R7dR9DRTLRlUUrAicC4zzWN/view / https://drive.google.com/file/d/16VoHNPAZ5Js19zspjFOsKiGRrfkDgHoN/view <br/>
 Custom Dataset created by adding noise to Google Scraped Images Dataset - 
 
 <h4>Kaggle Link for Dataset:</h4>https://www.kaggle.com/crawford/emnist
