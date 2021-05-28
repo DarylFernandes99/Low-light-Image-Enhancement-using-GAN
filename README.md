@@ -24,11 +24,28 @@ Custom Dataset created by adding noise to Google Scraped Images Dataset (<a href
 </ol>
 
 <h3>Steps to run the project</h3>
-  <b>**Change the File paths in the codes to their respective paths before execution.**</b>
 <ol>
-  <li>Run csv_to_image(emnist).py to convert from csv to image format.</li>
-  <li>Run letters(emnist).py to train the CNN model on EMNIST dataset.</li>
-  <li>Run bounding box.py to predict to extract text from image.</li>
+  <li><h4>Convert images from png/jpeg/jpg to npz format (png2npz.py)</h4></li>
+    <ul>
+      <li>Change the path variable to desired path</li>
+      <li>Execute the code</li>
+      <li>Upload the npz file on drive for training model on colab</li>
+    </ul>
+  <li><h4>Train model on Colab (Low-Light Image Enhancemnet using GAN.ipynb)</h4></li>
+    <ul>
+      <li>Save the converted dataset on drive</li>
+      <li>Change the drive path to the path of dataset in drive</li>
+      <li>Change the path to load dataset from colab in "Loading Dataset" cell</li>
+      <li>Change the path for saving model under "Creating Model Driectory" cell</li>
+      <li>Change the "batch" variable passed to train function (default batch size is 12)</li>
+      <li>Execute all the cells in order, the model is summarized at regular intervals</li>
+    </ul>
+  <li><h4>Testing our model (main.py)</h4></li>
+    <ul>
+      <li>Add path of model and input image in variables model_path and image_path respectively</li>
+      <li>Execute the main.py file</li>
+      <li>The ouput will be stored as "output.png" in the current working directory</li>
+    </ul>
 </ol>
 
 <h3>CNN Architecture used</h3>
