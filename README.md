@@ -8,7 +8,7 @@ Sony (<a href="https://storage.googleapis.com/isl-datasets/SID/Sony.zip">Link</a
 Single Image Contrast Enhancement (SICE) - Part1: <a href="https://drive.google.com/file/d/1HiLtYiyT9R7dR9DRTLRlUUrAicC4zzWN/view">Link</a> | Part2: <a href="https://drive.google.com/file/d/16VoHNPAZ5Js19zspjFOsKiGRrfkDgHoN/view">Link</a> <br/>
 Custom Dataset created by adding noise to Google Scraped Images Dataset (<a href="https://www.kaggle.com/basu369victor/low-light-image-enhancement-with-cnn">Link</a>)
 
-<h4>Link to Published Paper:</h4>
+<h4>Link to Published Paper:</h4> https://www.irjet.net/archives/V8/i6/IRJET-V8I6136.pdf
 
 <h4>System Configuration</h4>
 <ul>
