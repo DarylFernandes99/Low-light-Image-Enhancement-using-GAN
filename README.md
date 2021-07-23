@@ -1,5 +1,5 @@
 # Low-Light-Image-Enhancement-using-GAN
-In this project, image taken in low lighting conditions, night time, or without much ambient light are converted into and enhanced image as if the image was taken with good lighting condition. Generative Adversarial Networks (GANs) is used to generate the enhanced image from scratch.
+In this project, image taken in low lighting conditions, night time, or without much ambient light are converted into an enhanced image as if the image was taken under better lighting condition. Generative Adversarial Networks (GANs) is used to generate the enhanced image from scratch.
 
 <h4>Datasets Used:</h4>
 LOw Light Paired (LOL) Dataset (<a href="https://drive.google.com/file/d/157bjO1_cFuSd0HWDUuAmcHRJDVyWpOxB/view">Link</a>) <br/>
