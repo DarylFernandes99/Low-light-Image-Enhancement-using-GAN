@@ -340,9 +340,47 @@ This project has been published in a peer-reviewed research paper:
 
 **Publication Details:**
 - **Title**: Low-Light Image Enhancement using Generative Adversarial Networks
+- **Authors**: Daryl Fernandes, et al.
 - **Journal**: International Research Journal of Engineering and Technology (IRJET)
 - **Volume**: 8, Issue 6
+- **Year**: 2021
+- **Pages**: 136-142
+- **ISSN**: 2395-0072
 - **Link**: [IRJET Publication](https://www.irjet.net/archives/V8/i6/IRJET-V8I6136.pdf)
+
+## 📖 Citation
+
+If you use this work in your research, please cite our paper:
+
+### BibTeX
+```bibtex
+@article{fernandes2021lowlight,
+  title={Low-Light Image Enhancement using Generative Adversarial Networks},
+  author={Fernandes, Daryl and others},
+  journal={International Research Journal of Engineering and Technology (IRJET)},
+  volume={8},
+  number={6},
+  pages={136--142},
+  year={2021},
+  publisher={IRJET},
+  issn={2395-0072},
+  url={https://www.irjet.net/archives/V8/i6/IRJET-V8I6136.pdf}
+}
+```
+
+### APA Style
+```
+Fernandes, D., et al. (2021). Low-Light Image Enhancement using Generative Adversarial Networks. 
+International Research Journal of Engineering and Technology (IRJET), 8(6), 136-142. 
+Retrieved from https://www.irjet.net/archives/V8/i6/IRJET-V8I6136.pdf
+```
+
+### IEEE Style
+```
+D. Fernandes et al., "Low-Light Image Enhancement using Generative Adversarial Networks," 
+International Research Journal of Engineering and Technology (IRJET), vol. 8, no. 6, 
+pp. 136-142, 2021. [Online]. Available: https://www.irjet.net/archives/V8/i6/IRJET-V8I6136.pdf
+```
 
 ## 🤝 Contributing
 
